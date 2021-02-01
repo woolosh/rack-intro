@@ -1,4 +1,4 @@
-require 'spec_helper.rb'
+require_relative './spec_helper.rb'
 
 describe "MyServer" do
   it "should say hello" do
